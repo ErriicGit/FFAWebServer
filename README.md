@@ -31,7 +31,7 @@ Finally install open the terminal and install the dependencies and the server sh
 npm install express lowdb async
 ```
 ## Support
-If you need any help feel free to cantact me on Discord.
+If you need any help feel free to contact me on Discord.
 ```sh
 Erriic#9887
 ```
