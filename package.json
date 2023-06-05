@@ -6,7 +6,13 @@
   "scripts": {
     "start": "node index.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "Erriic",
-  "license": "ISC"
+  "dependencies": {
+    "async": "^3.2.4",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "lowdb": "^6.0.1"
+  }
 }
